@@ -140,6 +140,7 @@
 .main-container .text-container p{
     text-align: justify;
     cursor: pointer;
+    font-weight: 500;
 }
 
 #btn-img{
